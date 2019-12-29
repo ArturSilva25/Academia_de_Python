@@ -1,0 +1,10 @@
+valor1 = int(input("primeiro número: "))
+
+valor2 = int(input("segundo número: "))
+
+resultado = valor1 + valor2
+#pode-se colocar o tipo "int" antes do das variáveis
+#caso não tenha convertido no "input"
+#exemplo: int(valor1)
+
+print(f"resultado da soma é: {resultado}")
