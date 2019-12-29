@@ -1,0 +1,9 @@
+r = float(input("qual o raio do círculo: "))
+
+raio = r * r
+
+pi = 3.14
+
+resultado = pi * raio
+
+print(f"área do círculo é igual a: {resultado} cm")
